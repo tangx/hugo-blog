@@ -1,7 +1,7 @@
 ---
 date: "2021-11-19T00:00:00Z"
 description: 设置 docker server 网络代理， 下载 gcr.io 镜像
-image: topic/docker.png
+featuredImagePreview: topic/docker.png
 keywords: docker, proxy, k8s, gcr.io
 tags:
 - docker

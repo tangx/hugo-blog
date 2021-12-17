@@ -1,7 +1,7 @@
 ---
 date: "2021-12-08T00:00:00Z"
 description: Mysql 外键
-image: topic/db.png
+featuredImagePreview: topic/db.png
 keywords: mysql
 tags:
 - mysql

@@ -1,7 +1,7 @@
 ---
 date: "2021-08-31T00:00:00Z"
 description: vue3 vite2 初始化
-image: topic/vue.png
+featuredImagePreview: topic/vue.png
 keywords: vue3, vite2
 tags:
 - vue3

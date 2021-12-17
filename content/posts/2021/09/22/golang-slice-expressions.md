@@ -1,7 +1,7 @@
 ---
 date: "2021-09-22T00:00:00Z"
 description: slice[a:b:c] 是什么意思? golang slice 完整表达式
-image: topic/golang.png
+featuredImagePreview: topic/golang.png
 keywords: slice[a:b:c] 是什么意思? golang slice 完整表达式
 tags:
 - golang

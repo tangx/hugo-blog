@@ -1,7 +1,7 @@
 ---
 date: "2021-09-18T00:00:00Z"
 description: 创建 gitlab shell runner
-image: topic/gitlab.png
+featuredImagePreview: topic/gitlab.png
 keywords: keyword1, keyword2
 tags:
 - gitlab

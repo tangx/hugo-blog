@@ -1,7 +1,7 @@
 ---
 date: "2021-09-28T00:00:00Z"
 description: vue3 使用 @ 路径别名
-image: topic/vue.png
+featuredImagePreview: topic/vue.png
 keywords: vue3
 tags:
 - cate1
