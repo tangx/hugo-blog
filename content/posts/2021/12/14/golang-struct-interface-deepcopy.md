@@ -1,7 +1,7 @@
 ---
 date: "2021-12-14T00:00:00Z"
 description: golang deepcopy 的两种实现方式
-featuredImagePreview: topic/golang.png
+featuredImagePreview: /assets/topic/golang.png
 keywords: go, deepcopy
 tags:
 - cate1

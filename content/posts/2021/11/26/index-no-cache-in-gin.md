@@ -1,7 +1,7 @@
 ---
 date: "2021-11-26T00:00:00Z"
 description: nginx 实现首页不缓存
-featuredImagePreview: topic/gin.png
+featuredImagePreview: /assets/topic/gin.png
 keywords: cdn, nginx, cache
 tags:
 - cdn

@@ -1,7 +1,7 @@
 ---
 date: "2021-11-19T00:00:00Z"
 description: v2ray 配置
-featuredImagePreview: topic/pandalisa.png
+featuredImagePreview: /assets/topic/pandalisa.png
 keywords: v2ray
 tags:
 - v2ray

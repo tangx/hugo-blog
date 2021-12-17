@@ -1,7 +1,7 @@
 ---
 date: "2021-09-22T00:00:00Z"
 description: Golang 反射
-featuredImagePreview: topic/golang.png
+featuredImagePreview: /assets/topic/golang.png
 keywords: golang
 tags:
 - golang

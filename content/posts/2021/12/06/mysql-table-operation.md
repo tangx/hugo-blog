@@ -1,7 +1,7 @@
 ---
 date: "2021-12-06T00:00:00Z"
 description: mysql table 表操作
-featuredImagePreview: topic/db.png
+featuredImagePreview: /assets/topic/db.png
 keywords: mysql, table
 tags:
 - mysql

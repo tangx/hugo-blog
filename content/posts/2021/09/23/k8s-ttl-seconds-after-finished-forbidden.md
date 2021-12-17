@@ -2,7 +2,7 @@
 date: "2021-09-23T00:00:00Z"
 description: spec.jobTemplate.spec.ttlSecondsAfterFinished, Forbidden, disabled by
   feature-gate
-featuredImagePreview: topic/k8s.png
+featuredImagePreview: /assets/topic/k8s.png
 keywords: k8s
 tags:
 - k8s

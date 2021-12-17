@@ -1,7 +1,7 @@
 ---
 date: "2021-12-06T00:00:00Z"
 description: Mysql 常见数据类型 int char timestamp
-featuredImagePreview: topic/db.png
+featuredImagePreview: /assets/topic/db.png
 keywords: mysql
 tags:
 - mysql

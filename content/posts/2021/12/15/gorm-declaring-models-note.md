@@ -1,7 +1,7 @@
 ---
 date: "2021-12-15T00:00:00Z"
 description: gorm 数据库表模型声明笔记
-featuredImagePreview: topic/db.png
+featuredImagePreview: /assets/topic/db.png
 keywords: keyword1, keyword2
 tags:
 - gorm

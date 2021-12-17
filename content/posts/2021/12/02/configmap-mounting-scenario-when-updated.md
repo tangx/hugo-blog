@@ -1,7 +1,7 @@
 ---
 date: "2021-12-02T00:00:00Z"
 description: K8S 中被挂载的 Configmap 发生了变化容器内部会发生什么
-featuredImagePreview: topic/k8s.png
+featuredImagePreview: /assets/topic/k8s.png
 keywords: k8s, configmap, volume
 tags:
 - k8s

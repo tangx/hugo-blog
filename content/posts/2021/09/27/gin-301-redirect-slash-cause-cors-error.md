@@ -1,7 +1,7 @@
 ---
 date: "2021-09-27T00:00:00Z"
 description: gin 内部重定向时 middleware 不可用异常
-featuredImagePreview: topic/gin.png
+featuredImagePreview: /assets/topic/gin.png
 keywords: gin
 tags:
 - golang
