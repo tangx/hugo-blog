@@ -11,7 +11,10 @@ build:
 	touch public/.nojekyll
 
 docker: build
-	docker build -t $(IMAGE) . && docker push $(IMAGE)
+	docker build -t $(IMAGE) . 
+docker.push:
+	docker push $(IMAGE)
 
 clean:
 	docker rmi `docker images -f "dangling=true" -q`
+	rm -rf public resources
