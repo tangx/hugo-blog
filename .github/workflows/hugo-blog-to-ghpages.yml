@@ -39,7 +39,7 @@ jobs:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-      - name: find dirs
+      - name: list dir 
         run: |
           find . -type d -maxdepth 2
       - name: Build and push
@@ -48,6 +48,7 @@ jobs:
         with:
           push: true
           tags: ghcr.io/tangx/blog:latest
+          context: .
 
       # push gh-pages
       # - name: Pushes to another repository
