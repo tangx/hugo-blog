@@ -102,7 +102,7 @@ theme = "LoveIt"
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = "/assets/img/fat-gopher-tiny.png"
+      avatarURL = "/avatar/fat-gopher-tiny.png"
       # LoveIt 更改 | 0.2.7 主页显示的网站标题 (支持 HTML 格式)
       title = "tangx"
       # 主页显示的网站副标题
@@ -117,7 +117,7 @@ theme = "LoveIt"
     [params.home.posts]
       enable = true
       # 主页每页显示文章数量
-      paginate = 1
+      paginate = 6
       # LoveIt 删除 | 0.2.0 被 params.page 中的 hiddenFromHomePage 替代
       # 当你没有在文章前置参数中设置 "hiddenFromHomePage" 时的默认行为
       defaultHiddenFromHomePage = false
@@ -214,7 +214,7 @@ theme = "LoveIt"
       # 是否使用目录
       enable = true
       # LoveIt 新增 | 0.2.9 是否保持使用文章前面的静态目录
-      keepStatic = true
+      keepStatic = false
       # 是否使侧边目录自动折叠展开
       auto = true
     # LoveIt 新增 | 0.2.0 代码配置
