@@ -1,4 +1,4 @@
-FROM ghcr.io/tangx/httpserve:v0.0.1
+FROM ghcr.io/tangx/httpserve:latest
 # FROM nginx:alpine
 # WORKDIR /go/bin/dist
 WORKDIR /usr/share/nginx/html
