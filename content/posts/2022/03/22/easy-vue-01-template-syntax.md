@@ -1,8 +1,8 @@
 ---
 title: "easy vue3 - 01 模版语法"
 subtitle: ""
-date: 2022-03-22T18:44:29+08:00
-lastmod: 2022-03-22T18:44:29+08:00
+date: 2022-03-22T07:19:34+08:00
+lastmod: 2022-03-22T07:19:34+08:00
 draft: false
 author: ""
 authorLink: ""
@@ -64,4 +64,3 @@ license: ""
 从结果中可以看到， 被渲染的 url 地址全部是大写字母
 
 ![20220322003700](https://assets.tangx.in/blog/easy-vue-01/20220322003700.png)
-
