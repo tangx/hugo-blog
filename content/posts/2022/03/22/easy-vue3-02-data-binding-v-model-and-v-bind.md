@@ -49,3 +49,5 @@ Vue 中有两种数据绑定方式：
 let name = ref("zhangsan")
 </script>
 ```
+
+![20220322221633](https://assets.tangx.in/blog/easy-vue3-02-data-binding-v-model-and-v-bind/20220322221633.png)
