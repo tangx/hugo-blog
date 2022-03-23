@@ -17,9 +17,9 @@ jobs:
       - name: Checkout hugo-builder
         uses: actions/checkout@v2
         with:
-          repository: dillonzq/LoveIt
+          repository: tangx/LoveIt
           path: themes/LoveIt
-          ref: v0.2.10
+          ref: v1.2.10
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2

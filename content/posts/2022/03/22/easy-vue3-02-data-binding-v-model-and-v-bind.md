@@ -1,5 +1,5 @@
 ---
-title: "Data Binding v Model and v Bind"
+title: "easy vue3 - 02 Data Binding v Model and v Bind"
 subtitle: ""
 date: 2022-03-22T22:01:23+08:00
 lastmod: 2022-03-22T22:01:23+08:00
