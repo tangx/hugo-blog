@@ -1,5 +1,5 @@
 ---
-title: "Redis 删除大 key"
+title: "Redis 删除大 key 时候的注意事项"
 subtitle: "Redis Delete the Big Key"
 date: 2022-03-28T10:17:52+08:00
 lastmod: 2022-03-28T10:17:52+08:00
@@ -25,6 +25,7 @@ lightgallery: false
 license: ""
 ---
 
+# Redis 删除大 KEY 的注意事项
 
 ## 什么是 Redis 大 Key
 
