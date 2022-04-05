@@ -1,5 +1,5 @@
 ---
-title: "redis 持久化方式 - RDB 和 AOF"
+title: "Redis 持久化方式 - RDB 和 AOF"
 subtitle: "Redis Persistence RDB and AOF"
 date: 2022-03-28T18:19:59+08:00
 lastmod: 2022-03-28T18:19:59+08:00
